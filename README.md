@@ -19,7 +19,8 @@ It is designed for beginners to learn:
 
 ## 📁 Files
 - `index.html` — HTML interface
-- `script.js` — JavaScript logic
+- `app.js` — JavaScript logic
+- 'style.css' - UI Styling
 - `README.md` — project documentation
 
 ## 🛠️ How to Run
