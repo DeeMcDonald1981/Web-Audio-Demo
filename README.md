@@ -20,7 +20,7 @@ It is designed for beginners to learn:
 ## 📁 Files
 - `index.html` — HTML interface
 - `app.js` — JavaScript logic
-- 'style.css' - UI Styling
+- `style.css` - UI Styling
 - `README.md` — project documentation
 
 ## 🛠️ How to Run
