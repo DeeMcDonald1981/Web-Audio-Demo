@@ -42,11 +42,4 @@ It is designed for beginners to learn:
 - DOM access (`getElementById`)
 - Function modularity (`startOscillator`)
 
-## 📌 Future Ideas
-- Expand to a piano simulator
-- Add frequency sliders
-- Save presets
-- Use Web Audio API for music synthesis
 
-## 📝 Author
-[Your Name] — Software Engineering Learner
